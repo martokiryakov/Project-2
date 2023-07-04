@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    color: green;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+#content {
+    margin-top: 20px;
+}
